@@ -1,1 +1,1 @@
-# PRO-C166-Boilerplate-
+# PRO-C166-Boilerplate
